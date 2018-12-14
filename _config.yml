@@ -1,0 +1,12 @@
+# Site settings
+title: MGG - Developer
+email: muhammadibnuwardana@gmail.com
+description: Build, Create, Development and Entering Innovation Software for Future World
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: https://mgg-dev.github.io
+
+twitter_username:
+github_username: mgg-dev
+
+# Build settings
+markdown: kramdown
